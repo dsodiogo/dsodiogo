@@ -4,7 +4,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C0052&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
 
 
-Técnico de suporte com experiência e Analista N1 em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
+👋 Olá, eu sou Diogo
+
+🔹 Analista de Suporte N1 & Técnico Field
+🔹 Apaixonado por tecnologia e resolução de problemas
+🔹 Em constante evolução na área de desenvolvimento e infraestrutura
+
+🚀 Atualmente aprendendo:
+
+🖥️ CS6 (Adobe Creative Suite)
+
+🌐 HTML & JavaScript
+
+🐍 Python
+
+💡 Sobre mim:
+
+Atuando em suporte técnico e aprendizado em programação, sempre buscando novas formas de otimizar processos e entregar soluções eficientes.
+Meu objetivo é crescer na área de tecnologia, explorando desde o suporte ao usuário até o desenvolvimento de aplicações.
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=dsodiogo&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo&layout=compact&theme=dracula)
 
