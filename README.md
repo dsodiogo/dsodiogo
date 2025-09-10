@@ -12,7 +12,7 @@
 
 🚀 Atualmente aprendendo:
 
-🖥️ CS6 (Adobe Creative Suite)
+🖥️ CS6 
 
 🌐 HTML & JavaScript
 
