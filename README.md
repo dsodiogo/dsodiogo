@@ -6,7 +6,7 @@
 
 Técnico de suporte com experiência e Analista N1 em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
 
-![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=dracula)
+![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=dsodiogo&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
