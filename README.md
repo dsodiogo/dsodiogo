@@ -1,7 +1,7 @@
 ## Ola, meu nome é Diogo dos Santos Oliveira, tenho 21 anos de idade, sou Analista N1 e estudante de Ciencias da Computação!!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6C27F5&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C0052&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
 
 
 Técnico de suporte com experiência e Analista N1 em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
